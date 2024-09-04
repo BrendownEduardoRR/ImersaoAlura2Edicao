@@ -1,4 +1,4 @@
-# Imersao Alura 2024 | 2° Edição
+<img width="110%" src="https://github.com/user-attachments/assets/c375006f-7358-4011-89de-3458867dc443">
 
 # Aula 1: Iniciando o projeto com o HTML e CSS
 <img align="center" src="https://github.com/user-attachments/assets/d8aac78f-36b6-417f-aaa7-43125d988b51">
